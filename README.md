@@ -4,7 +4,7 @@
 ![](profile-pic.png)
 
 <h3> 📫 How to reach me </h3>
-How to reach me: **nekohatsuki@gmail.com**
+How to reach me: <b>n3k0hatsuki@gmail.com</b>
 
 I sign my commits with PGP. You can verify my identity using the fingerprint below:
 
