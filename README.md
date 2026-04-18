@@ -4,10 +4,11 @@
 ![](profile-pic.png)
 
 <h3> 📫 How to reach me </h3>
+
 How to reach me: <b>n3k0hatsuki@gmail.com</b>
 
-I sign my commits with PGP. You can verify my identity using the fingerprint below:
+If you need to send me sensitive information, please use my PGP Public Key.
 
-`Fingerprint: AADA 563A 8D67 4240 8E9F C01B C979 8117 F367 1243`
+`PGP Fingerprint: AADA 563A 8D67 4240 8E9F C01B C979 8117 F367 1243`
 
 [View my public key on keys.openpgp.org](https://keys.openpgp.org/search?q=n3k0hatsuki@gmail.com)
